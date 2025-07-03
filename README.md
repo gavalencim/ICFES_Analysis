@@ -44,6 +44,18 @@ Todas estas alteraciones se hicieron teniendo en cuenta la importacia y validez 
 ## Visualiación de datos con Power BI
 La visualiazación consta de una hoja de índice, cuatro hojas de informe (Informe general, informe de perfil de los estudiantes, informe de contexto familiar e informe de características del colegio), y tres hjas de tootips para ahondar en la información de los informes presentados. El informe final se puede ver la siguiente página https://gavalencim.github.io/ICFES_Analysis/
 
+## Hallazgos y conclusiones
+Entre las conclusiones más importantes del la visualización están:
+* Los estudiantes de mayores estratos tienden a tener mejores puntajes en el ICFES.
+* Bogotá, Cundinamarca, Boyacá, Valle del cauca y los Santanderes son de los departamentos con promedios de puntajes globales por encima del promedio nacional.
+* A pesar de que entre mujeres y hombres, son las mujeres quienes más presentan en el examen, los hombres tienden a tener (por poco) mejores puntajes globales.
+* Variables como el acceso a internet y computador en casa, tienden a suponer una gran diferencia a la hora de los puntajes globales: En promedio un estudiante con acceso a computador e intenet en casa tiende a sacar casi 40 puntos más que un estudiante sin acceso a ninguno de estos servicios en casa.
+* Según la edad, son los estudiantes en torno a los 15 anios quienes obtienen mejores puntajes. A más edad, es menor el puntaje global obtenido.
+* A pesar de que los estudiantes de estrato 6 tienden a tener mejores puntajes que los estudiantes del resto de los estratos, sólo son el 1% de todos los estudiantes del país.
+* El grado de escolaridad de los padres también es significativo: A mayor nivel educativo de los padres, mejor es el puntaje global de los estudiantes, aunque los padres y madres con postgrados solo sean el 2%.
+* Las instituciones educativas Urbanas, Bilingues y no oficiales son las que tienen estudiantes con mejores puntajes globales frente a sus opuestos.
+* En cuanto a materias, los estudiantes tienden a tener mejores puntajes en inglés, y puntajes menos favorecedores en ciencias sociales y ciudadanas.
+
 
 
 
