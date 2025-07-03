@@ -42,7 +42,7 @@ Luego de cargar el CSV de los datos limpios de Python a Power BI, se hicieron la
 Todas estas alteraciones se hicieron teniendo en cuenta la importacia y validez de los errores y datos de las columnas.
 
 ## Visualiación de datos con Power BI
-La visualiazación consta de una hoja de índice, cuatro hojas de informe (Informe general, informe de perfil de los estudiantes, informe de contexto familiar e informe de características del colegio), y tres hjas de tootips para ahondar en la información de los informes presentados. 
+La visualiazación consta de una hoja de índice, cuatro hojas de informe (Informe general, informe de perfil de los estudiantes, informe de contexto familiar e informe de características del colegio), y tres hjas de tootips para ahondar en la información de los informes presentados. El informe final se puede ver la siguiente página https://gavalencim.github.io/ICFES_Analysis/
 
 
 
